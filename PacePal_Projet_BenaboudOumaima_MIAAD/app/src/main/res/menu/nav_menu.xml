@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/activityDetecion"
+            android:icon="@drawable/baseline_sports_gymnastics_24"
+            android:title="Activity Detected"></item>
+        <item
+            android:id="@+id/logActivities"
+            android:icon="@drawable/baseline_history_24"
+            android:title="Log of Detected Activities"></item>
+        <item
+
+            android:id="@+id/showOnMap"
+            android:icon="@drawable/baseline_location_on_24"
+            android:title="Show Activity on Map"></item>
+        <item
+
+            android:id="@+id/editProfile"
+            android:icon="@drawable/baseline_settings_24"
+            android:title="Settings"></item>
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/baseline_logout_24"
+                android:title="Logout">
+
+            </item>
+        </menu>
+    </item>
+</menu>

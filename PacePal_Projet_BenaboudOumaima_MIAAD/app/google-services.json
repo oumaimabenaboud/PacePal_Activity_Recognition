@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225804443784",
+    "firebase_url": "https://pacepal-app-default-rtdb.firebaseio.com",
+    "project_id": "pacepal-app",
+    "storage_bucket": "pacepal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225804443784:android:5a5660d530a12456d03f3d",
+        "android_client_info": {
+          "package_name": "com.example.pacepal_projet_benaboudoumaima_miaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225804443784-o5a3sq1fb06mj767195o349rrudt352s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfp_x52XwkvfhBUr1C30Jhm3XlSEws5gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225804443784-o5a3sq1fb06mj767195o349rrudt352s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
